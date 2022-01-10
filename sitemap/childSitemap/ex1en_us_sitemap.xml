@@ -45,4 +45,19 @@
 <tags/>
 </coveo:metadata>
 </url>
+<url>
+<loc>https://ababaic.github.io/example/ex4/document</loc>
+<lastmod>2022-01-10T16:10:00+0100</lastmod>
+<priority>1.0</priority>
+<coveo:metadata>
+<modificationdate>2022-01-04T12:05:10+0100</modificationdate>
+<authorname>Darko Pjevic</authorname>
+<kmdisclosurelevel>cv2</kmdisclosurelevel>
+<kmdocfulltitle>Example 1 document</kmdocfulltitle>
+<kmdocid>ex1en_us</kmdocid>
+<kmdoclanguagecode>cv1871440888</kmdoclanguagecode>
+<kmdoclocale>en_US</kmdoclocale>
+<tags/>
+</coveo:metadata>
+</url>
 </urlset>
