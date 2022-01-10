@@ -15,5 +15,20 @@
 <tags/>
 </coveo:metadata>
 </url>
+<url>
+<loc>https://ababaic.github.io/example/ex3/document</loc>
+<lastmod>2022-01-10T12:40:00+0100</lastmod>
+<priority>1.0</priority>
+<coveo:metadata>
+<modificationdate>2022-01-10T14:55:00+0100</modificationdate>
+<authorname>Ademir Babaic</authorname>
+<kmdisclosurelevel>cv2</kmdisclosurelevel>
+<kmdocfulltitle>Example 6 document</kmdocfulltitle>
+<kmdocid>ex6en_us</kmdocid>
+<kmdoclanguagecode>cv1871440888</kmdoclanguagecode>
+<kmdoclocale>en_US</kmdoclocale>
+<tags/>
+</coveo:metadata>
+</url>
 
 </urlset>
